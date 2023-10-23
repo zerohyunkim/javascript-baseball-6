@@ -5,7 +5,7 @@
 - [ ] airbnb 규칙 준비
 - [ ] jsdoc기반 typescript 준비
 - [x] node v18.17.1 기반 테스트 환경 구축
-- [ ] airbnb 규칙 준수용 github actions 설정
+- [x] airbnb 규칙 준수용 github actions 설정
 
 ## 기능 구현
 
